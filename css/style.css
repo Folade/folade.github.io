@@ -1,7 +1,7 @@
 body {
   line-height: 1.5;
   color: white;
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background: url('../images/twitter-background-wallpaper.jpg');
 
   /* Full Page Background Receipe */
@@ -21,11 +21,7 @@ body {
 h1 {
 	font-size: 80px;
 	margin-bottom: -50px;
-	font-family: 'Istok Web', sans-serif;
-}
-
-h2 {
-	font-size: 30px;
+  font-family: 'Source Code Pro', ;
 }
 
 a {
