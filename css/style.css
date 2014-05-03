@@ -14,13 +14,13 @@ body {
   width: 500px;
   margin: 40px;
   background: rgba(164,47,28,0.5);
-  padding: 15px;
+  padding: 25px;
   border-radius: 10px;
 }
 
 h1 {
 	font-size: 80px;
-	margin-bottom: -50px;
+	margin-bottom: -10px;
   font-family: 'Source Code Pro', ;
 }
 
