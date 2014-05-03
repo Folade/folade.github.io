@@ -2,7 +2,7 @@ body {
   line-height: 1.5;
   color: white;
   font-family: 'Questrial', sans-serif;
-  background: url('/images/twitter-background-wallpaper.jpg');
+  background: url('../images/twitter-background-wallpaper.jpg');
 
   /* Full Page Background Receipe */
   background-size: cover;
